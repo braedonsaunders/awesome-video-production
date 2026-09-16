@@ -118,6 +118,7 @@ A curated list of software, services, and resources to create videos.
 - [Reanimate] - Declarative animation library for SVG documents.
 - [Spine] - Tooling for 2D animations in games.
 - [Synfig] - Open-source 2D animation software.
+- [TalkingHead] - Real-time lip-sync for full-body 3D avatars in the browser.
 - [Theater.js] - Animation library for the web.
 - [TiXL] - Open-source software for visual effects and motion graphics for live performances and VJing.
 
@@ -152,6 +153,7 @@ A curated list of software, services, and resources to create videos.
 [Reanimate]: https://reanimate.github.io
 [Spine]: https://esotericsoftware.com/spine-in-depth
 [Synfig]: https://www.synfig.org
+[TalkingHead]: https://github.com/met4citizen/TalkingHead
 [Theater.js]: https://www.theatrejs.com
 [TiXL]: https://tixl.app/
 
